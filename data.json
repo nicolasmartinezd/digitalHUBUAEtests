@@ -1,0 +1,15 @@
+{"user": {
+        "email": "testTrello2019DigitalHub@gmail.com",
+        "password": "imtrello"
+    },
+    "board": {
+        "title": "Test Board"
+    },
+    "list": {
+        "title": "Test List"
+    },
+    "card": {
+        "title": "Test Card",
+        "content": "Test Card Content"
+    }
+}
