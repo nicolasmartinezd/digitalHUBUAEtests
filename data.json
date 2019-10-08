@@ -11,5 +11,10 @@
     "card": {
         "title": "Test Card",
         "content": "Test Card Content"
+    },
+    "trello": {
+        "apikey": "d1b24fc2a8fff75dfe4c70a685a0917f",
+        "token": "5c20cb87e876d27732e653db882696e02d10405b6fcadf38927a19386e25b696",
+        "firstboardid": "5d9a657991cdbd40da81f888"
     }
 }
